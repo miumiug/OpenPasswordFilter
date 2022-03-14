@@ -24,7 +24,7 @@ DLL与环回（loopback）网络接口上的服务进行通信，根据配置的
 ------------
 你可以下载已经编译完成的X64环境的程序:
 
-[64位手工安装程序](https://github.com//OpenPasswordFilter/tree/master/x64/Release)
+[64位手工安装程序](https://github.com//OpenPasswordFilter/tree/master/x64/Release)   
 下方还有自动安装包
 
 你要对DLL进行配置，以便Windows能够加载它来过滤密码。请注意，你必须在所有域控制器上这样做因为任何一个域控制器都可能最终为密码更改请求提供服务。 这里有一个链接到微软的设置密码过滤器的文档的链接。
